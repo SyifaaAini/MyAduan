@@ -1,7 +1,6 @@
 # MyAduan
 An app for digital storage and management of complaints. This repository holds the frontend for the app, implemented using Flutter.
 
-
 ## Introduction
 In this fast-moving world with intensive coursework, students find very less time to share their problems. At almost every university, the students reside in hostels, and most of those hostels have offline complaint registration opening only 2-3 hours a day which some students miss. This project focuses on the digitization of these complaint management systems and provide their easy access to students.
 
