@@ -8,7 +8,7 @@ My Aduan app is a game-changer for the user because it makes it easier for them 
 ## Goals
 1. Digital Storage and Management of Complaints
 2. 24/7 Registration of Complaints
-3. Students can view complaints of others too
+3. User can view complaints of others too
 4. Categorization of Complaints into various categories
 5. Status of Complaint
 
